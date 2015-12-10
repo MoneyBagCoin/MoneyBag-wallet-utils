@@ -19,7 +19,7 @@
     "url": "https://github.com/creditbit/creditbitcore-wallet-utils/issues"
   },
   "dependencies": {
-    "bitcore": "git://github.com/creditbit/creditbitcore.git",
+    "bitcore": "git://github.com/creditbit/creditbitcore-lib.git",
     "coveralls": "^2.11.2",
     "lodash": "^3.3.1",
     "preconditions": "^1.0.8",
