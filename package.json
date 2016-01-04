@@ -2,7 +2,7 @@
   "name": "creditbitcore-wallet-utils",
   "description": "Common library for creditbitcore Wallet Service and Client",
   "author": "creditbit-Devteam",
-  "version": "0.0.14",
+  "version": "1.0.0",
   "main": "index.js",
   "keywords": [
     "creditbit",

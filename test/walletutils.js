@@ -5,7 +5,7 @@ var Uuid = require('uuid');
 var chai = require('chai');
 var sinon = require('sinon');
 var should = chai.should();
-var Bitcore = require('bitcore-lib');
+var Bitcore = require('creditbitcore-lib');
 var WalletUtils = require('../lib/walletutils');
 
 var aText = 'hola';
