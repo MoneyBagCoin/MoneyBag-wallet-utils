@@ -1,5 +1,5 @@
 {
-  "name": "creditbitcore-wallet-utils",
+  "name": "bitcore-wallet-utils",
   "description": "Common library for creditbitcore Wallet Service and Client",
   "author": "creditbit-Devteam",
   "version": "1.0.0",
