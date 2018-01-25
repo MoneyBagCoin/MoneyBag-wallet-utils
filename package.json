@@ -19,6 +19,7 @@
     "url": "https://github.com/creditbit/creditbitcore-wallet-utils/issues"
   },
   "dependencies": {
+    "bitcoire":"git://github.com/MoneyBagCoin/MoneyBag-node-core",
     "bitcore-lib": "git://github.com/MoneyBagCoin/MoneyBag-node-lib.git#wallet-utils",
     "coveralls": "^2.11.2",
     "json-stable-stringify": "^1.0.0",
